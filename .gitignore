@@ -1,0 +1,9 @@
+06_exports/
+*.docx
+*.pdf
+*.epub
+*.mobi
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
