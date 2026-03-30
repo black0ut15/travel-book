@@ -47,6 +47,10 @@ This appendix collects all external resources referenced or flagged in the manus
 | ETIAS (European Travel Info & Authorization System) | https://travel-europe.europa.eu/etias_en | 8, 9 | ⚠️ Check 2025 launch status |
 | U.S. Passport Agency (felon application info) | https://travel.state.gov | 7, 8, 12 | 🔲 |
 | Interstate Commission for Adult Offender Supervision (ICAOS) | https://www.interstatecompact.org | 2, 4, 6 | ✅ |
+| ICAOS Bench Book Rule 3.3.4 | ICAOS Rule 3.3.4 | RSO travel permit prohibition during interstate transfer | 2, 4, 6 | ⚠️ Verify current version |
+| U.S. Sentencing Commission, Primer on Supervised Release | https://www.ussc.gov/sites/default/files/pdf/training/primers/2023_Primer_Supervised_Release.pdf | Supervised release conditions, challenges, early termination | 2 | ✅ 2023 edition |
+| Root & Rebound, Road to Reentry (Federal Supervision) | https://roadmap.rootandrebound.org | Federal supervised release transfer process | 2 | ⚠️ 2018 — may need update |
+| CDRC Outcome Evaluation Report 2014 | California Dept. of Corrections and Rehabilitation | Return-to-prison data for sex offense registrants | 2 | ✅ Via YLOTL |
 
 ---
 

@@ -3,7 +3,7 @@
 
 **Status:** In Development  
 **Co-authors:** [Author] + Claude (Research Assistant)  
-**Last Updated:** 2026-03-30 (rev. 1)  
+**Last Updated:** 2026-03-30 (rev. 2)  
 **Audience Assumption:** Primarily off-paper readers dealing with ongoing record consequences  
 **Voice:** Instructional third-person, plain American English, no hedging  
 **Primary Source:** *Your Life on the List, 2025 Edition* (YLOTL) — used as research reference only
@@ -41,8 +41,8 @@ Inline research flags use this format:
 
 | File | Chapter | Title | Status |
 |------|---------|-------|--------|
-| `01_chapter_01.md` | Chapter 1 | Felony vs. RSO: Two Different Sets of Rules | Not Started |
-| `02_chapter_02.md` | Chapter 2 | Your Supervision Status Changes Everything | Not Started |
+| `01_chapter_01.md` | Chapter 1 | Felony vs. RSO: Two Different Sets of Rules | ✅ Drafted |
+| `02_chapter_02.md` | Chapter 2 | Your Supervision Status Changes Everything | ✅ Drafted |
 
 ---
 
@@ -131,4 +131,4 @@ Start with the foundation chapters, then build outward:
 4. `04_chapter_04.md` — domestic RSO travel (builds on Ch. 1 concepts)
 5. Continue sequentially from there
 
-**Next chapter to draft:** Chapter 1
+**Next chapter to draft:** Chapter 3
