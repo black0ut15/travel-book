@@ -138,3 +138,16 @@ Argentina, Australia, Bahamas, Barbados, Belize, Brazil, Cambodia, Canada, Cayma
 | R-08 | Steven Whitsett asylum case — 2024 German policy change details | 9 | Medium |
 | R-09 | Nations that have passed sex offense registries since 2022 SMART report | 9, Appendix A | Medium |
 | R-10 | Federal supervised release vs. state parole travel permission process compared | 2 | High |
+
+## CHAPTER 3 SOURCES
+
+| Source | Citation/URL | Chapters | Status |
+|--------|-------------|----------|--------|
+| TSA statutory authority | 49 U.S.C. § 44901 | 3 | ✅ |
+| REAL ID Act of 2005 | Pub. L. 109-13; DHS enforcement https://www.dhs.gov/real-id | 3, 12 | ✅ Verified Mar 2026 — May 7, 2025 deadline held, no extension |
+| Federal firearms prohibition | Gun Control Act of 1968, 18 U.S.C. § 922(g)(1) | 3, 5 | ✅ |
+| TSA PreCheck disqualifying offenses (tiered) | https://www.tsa.gov/disqualifying-offenses-factors | 3 | ✅ Verified Mar 2026 — 3-tier system confirmed |
+| TSA ConfirmID ($45 fallback, launched Feb 1 2026) | https://www.tsa.gov/news/press/releases/2025/12/01/tsa-introduces-new-45-fee-option-for-travelers-without-real-id | 3 | ✅ Verified Mar 2026 |
+| Global Entry felony disqualification | https://www.cbp.gov/travel/trusted-traveler-programs/global-entry | 3 | ✅ Verified Mar 2026 |
+| Airbnb criminal screening policy (tiered) | https://www.airbnb.com/help/article/3095 | 3, 10 | ✅ Verified Mar 2026 — tiered severity system confirmed; Inflection Risk Solutions is screener |
+| NCIC (National Crime Information Center) | FBI, national criminal history database | 3 | ✅ |
