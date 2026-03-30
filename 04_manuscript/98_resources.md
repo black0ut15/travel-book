@@ -199,3 +199,50 @@ Argentina, Australia, Bahamas, Barbados, Belize, Brazil, Cambodia, Canada, Cayma
 | 42 U.S.C. § 13663 — lifetime RSO HUD exclusion | Federal statute | 5, 6 | ✅ |
 | HUD regulations 24 CFR 5.856, 960.204, 982.553 | Federal Register | 5 | ✅ |
 | Florida Amendment 4 (2018) voting rights | Florida Stat. § 97.041 | 5 | ✅ |
+
+## CHAPTER 6 SOURCES
+
+| Source | Citation/URL | Chapters | Status |
+|--------|-------------|----------|--------|
+| SORNA dual notification requirement | 34 U.S.C. § 20913 | 6 | ✅ |
+| Mississippi advance notification (10 days) | Miss. Code Ann. §45-33-25 | 6 | ✅ Via YLOTL |
+| State classification approaches for out-of-state convictions | YLOTL 2025 Ed., Appendix 3 | 6 | ⚠️ Verify specific states at pub. |
+| Oklahoma housing elimination statistics | YLOTL 2025 Ed., citing 2006 media | 6 | ✅ Historical figure |
+| 15 lifetime-registration states list | YLOTL 2025 Ed. (Nov. 2022 update) | 6 | ⚠️ Verify current list |
+| 18 states allowing Tier I petition for removal | YLOTL 2025 Ed., citing A2twoZee | 6 | ⚠️ Verify current list |
+| State pardon availability for out-of-state convictions | YLOTL 2025 Ed., citing CCRC | 6 | ⚠️ Verify |
+| CCRC 50-state relief from SO registration | https://ccresourcecenter.org/state-restoration-profiles/50-state-comparison-relief-from-sex-offender-registration-obligations/ | 6 | ✅ Verify currency at pub. |
+| Alabama Act 2024-191 (pardon eligibility restriction) | YLOTL 2025 Ed. | 6 | ⚠️ Confirm current effect |
+| Texas municipal residency restrictions (412 as of Aug. 2025) | YLOTL 2025 Ed. | 6 | ✅ |
+
+## CHAPTER 7 SOURCES
+
+| Source | Citation/URL | Chapters | Status |
+|--------|-------------|----------|--------|
+| Puerto Rico registry statutes | 4 L.P.R.A. §536 through §536h | 7 | ✅ Via YLOTL |
+| Guam registry statutes | 9 Guam Code Ann. §89.01 through §89.15 | 7 | ✅ Via YLOTL |
+| USVI registry statutes | 14 V.I.C. §1721 through §1733 | 7 | ✅ Via YLOTL |
+| CNMI registry statutes | 6 CMC §1360–§1380 | 7 | ✅ Via YLOTL |
+| American Samoa registry statutes | Am. Samoa Code Ann. §46.2801 through §46.2806 | 7 | ✅ Via YLOTL |
+| IML territorial travel exception | 34 U.S.C. §§21501–21510; Pub. L. 114-119 | 7, 9 | ✅ |
+| Puerto Rico AWA non-compliance status | SMART Office https://smart.ojp.gov/sorna/substantially-implemented | 7 | ✅ Verified Mar 2026 — confirmed non-compliant; working toward compliance |
+| Territory-specific rules (all five) | YLOTL 2025 Ed.; NARSOL state wiki (PR last modified Dec. 2025) | 7 | ✅ Verified Mar 2026 — no changes found |
+
+## CHAPTER 8 SOURCES
+
+| Source | Citation/URL | Chapters | Status |
+|--------|-------------|----------|--------|
+| DS-11 passport application / felon eligibility | travel.state.gov | 8 | ✅ |
+| 22 U.S.C. § 2714a (child support passport bar) | Federal statute | 8 | ✅ |
+| Canada IRPA inadmissibility (§36) | S.C. 2001, c. 27 | 8 | ✅ |
+| Canada TRP / Criminal Rehabilitation pathways | https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility/overcome-criminal-convictions.html | 8 | ✅ Verified Mar 2026 — fees updated Dec 2025: TRP CAD $246.25; CR non-serious CAD $246.25; CR serious CAD $1,231. TRP 3-4mo; CR 9-18+mo |
+| Japan Immigration Control Act, Article 5 | Japanese law | 8 | ✅ |
+| Australia Migration Act 1958 § 501 (character test) | Australian law | 8 | ✅ Verified Mar 2026 — 12mo threshold confirmed; Jan 2026 amendment adds hate/extremism ground (Bondi attack response) |
+| UK Immigration Rules Part 9 | UK law | 8 | ✅ |
+| New Zealand immigration character requirements | https://www.immigration.govt.nz | 8 | ✅ |
+| ETIAS regulation (EU) 2018/1240 | EU regulation | 8, 9 | ✅ Verified Mar 2026 — NOT YET LAUNCHED; EES Oct 2025, ETIAS ~6mo after (late 2026) |
+| ETIAS official site | https://travel-europe.europa.eu/etias_en | 8, 9 | ✅ Verified Mar 2026 — pre-launch; re-verify at pub. |
+| How to Justice — felon international travel | https://howtojustice.org/getting-released-from-prison/can-felons-travel-abroad/ | 8 | ✅ |
+| AllCleared — countries that don't allow felons | https://allcleared.com/blog/which-countries-do-not-allow-felons | 8 | ✅ |
+| Carlson Meissner — countries banning felons | https://carlsonmeissner.com/blog/what-countries-do-not-allow-entry-if-you-are-a-convicted-felon/ | 8 | ✅ |
+| Jamaica felony enforcement caveat | Interrogating Justice https://interrogatingjustice.org | 8 | ✅ |

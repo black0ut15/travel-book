@@ -3,7 +3,7 @@
 
 **Status:** In Development  
 **Co-authors:** [Author] + Claude (Research Assistant)  
-**Last Updated:** 2026-03-30 (rev. 2)  
+**Last Updated:** 2026-03-30 (rev. 6)  
 **Audience Assumption:** Primarily off-paper readers dealing with ongoing record consequences  
 **Voice:** Instructional third-person, plain American English, no hedging  
 **Primary Source:** *Your Life on the List, 2025 Edition* (YLOTL) — used as research reference only
@@ -51,10 +51,10 @@ Inline research flags use this format:
 
 | File | Chapter | Title | Status |
 |------|---------|-------|--------|
-| `03_chapter_03.md` | Chapter 3 | Domestic Travel as a Felon | Not Started |
-| `04_chapter_04.md` | Chapter 4 | Domestic Travel as a Registered Sex Offender | Not Started |
-| `05_chapter_05.md` | Chapter 5 | Moving to a New State: Felons | Not Started |
-| `06_chapter_06.md` | Chapter 6 | Moving to a New State: Registered Sex Offenders | Not Started |
+| `03_chapter_03.md` | Chapter 3 | Domestic Travel as a Felon | ✅ Drafted |
+| `04_chapter_04.md` | Chapter 4 | Domestic Travel as a Registered Sex Offender | ✅ Drafted |
+| `05_chapter_05.md` | Chapter 5 | Moving to a New State: Felons | ✅ Drafted |
+| `06_chapter_06.md` | Chapter 6 | Moving to a New State: Registered Sex Offenders | ✅ Drafted |
 | `07_chapter_07.md` | Chapter 7 | U.S. Territories: A Special Category | Not Started |
 
 ---
@@ -131,4 +131,4 @@ Start with the foundation chapters, then build outward:
 4. `04_chapter_04.md` — domestic RSO travel (builds on Ch. 1 concepts)
 5. Continue sequentially from there
 
-**Next chapter to draft:** Chapter 3
+**Next chapter to draft:** Chapter 7
