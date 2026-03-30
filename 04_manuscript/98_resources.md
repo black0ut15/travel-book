@@ -151,3 +151,51 @@ Argentina, Australia, Bahamas, Barbados, Belize, Brazil, Cambodia, Canada, Cayma
 | Global Entry felony disqualification | https://www.cbp.gov/travel/trusted-traveler-programs/global-entry | 3 | ✅ Verified Mar 2026 |
 | Airbnb criminal screening policy (tiered) | https://www.airbnb.com/help/article/3095 | 3, 10 | ✅ Verified Mar 2026 — tiered severity system confirmed; Inflection Risk Solutions is screener |
 | NCIC (National Crime Information Center) | FBI, national criminal history database | 3 | ✅ |
+
+## CHAPTER 4 SOURCES
+
+| Source | Citation/URL | Chapters | Status |
+|--------|-------------|----------|--------|
+| Rolfe, "When a Sex Offender Comes to Visit" | *Criminal Justice Policy Review*, Nov. 2017 | 4, 6 | ✅ Still primary academic citation; practitioner guides are more current |
+| Civil Survival Visitor Registration Guide | https://civilsurvival.org/guides/sexoffensetravelguide/ (updated Sept. 2024) | 4 | ✅ Verified Mar 2026 |
+| Probation Information Network visitor registration chart | https://www.probationinfo.org/sor/visit/ | 4 | ✅ Verified Mar 2026 — ongoing updates |
+| A2twoZee Visitor Registration Laws Guide | https://drive.google.com/file/d/10gsOAjiKGO2lX2kGyT4EJij1HjZ_Mre_/view (updated Apr. 2025) | 4 | ✅ Most current available |
+| 43 CFR §8365.1-7 (BLM state law deference) | Federal Register | 4 | ✅ |
+| 36 CFR §327.26 (Army Corps state law deference) | Federal Register | 4 | ✅ |
+| 36 CFR §211.3 (Forest Service state law deference) | Federal Register | 4 | ✅ |
+| 43 CFR §423.3 (Bureau of Reclamation deference) | Federal Register | 4 | ✅ |
+| 50 CFR §25.13 (Fish and Wildlife deference) | Federal Register | 4 | ✅ |
+| US v. Nichols (tribal exclusion authority) | 2014 U.S. Dist. LEXIS 118129 (D. S.D. 2014) | 4 | ✅ |
+| SMART Office, Sex Offender Registration in Indian Country | March 2019, https://smart.ojp.gov | 4 | ⚠️ 2019 — check for updates |
+| OnceFallen 2023 Travel Survey (271 RPs) | *Your Life on the List, 2025 Edition* | 4 | ✅ Via YLOTL |
+| Carnival cruise RSO screening policy | https://help.carnival.com/app/answers/detail/a_id/8797 | 4 | ✅ Verified Mar 2026 — confirmed ban |
+| Royal Caribbean RSO screening | Multiple reports | 4 | ✅ Verified Mar 2026 — confirmed ban |
+| Norwegian Cruise Lines RSO ban (June 2022) | FAC report https://floridaactioncommittee.org/member-submission-ncl-no-longer-allowing-registrants-to-cruise/ | 4 | ⚠️ Confirmed via FAC; one contradicting legal source found — re-verify at pub. |
+| Virgin Voyages RSO policy | YLOTL 2025 Ed. only | 4 | ⚠️ Independent confirmation not obtained — verify before pub. |
+| Disney Cruise Line RSO screening | Multiple 2024–2025 sources | 4 | ✅ Verified Mar 2026 — confirmed stringent ban |
+| Disney World RSO ban (Florida) | Multiple 2024–2025 sources; enforced via trespass filings | 4 | ✅ Verified Mar 2026 — confirmed and current |
+| Six Flags RSO policy | Season pass terms; original policy ~2005 | 4 | ⚠️ No current universal corporate ban confirmed; enforcement inconsistent |
+
+## CHAPTER 5 SOURCES
+
+| Source | Citation/URL | Chapters | Status |
+|--------|-------------|----------|--------|
+| CCRC 50-state civil rights & firearms restoration chart | https://ccresourcecenter.org/state-restoration-profiles/chart-1-loss-and-restoration-of-civil-rights-and-firearms-privileges/ | 5 | ✅ Verify currency at pub. |
+| CCRC state restoration profiles (full) | https://ccresourcecenter.org/state-restoration-profiles/ | 5 | ✅ Primary reference |
+| Brennan Center, Criminal Disenfranchisement Laws | Aug. 2022; verify for current updates | 5 | ⚠️ Re-verify at pub. |
+| Sentencing Project, "Expanding the Vote" 2024 | ~4M Americans disenfranchised due to felony convictions | 5 | ✅ Verified Mar 2026 |
+| Nolo, "Voting Rights With a Felony" | https://www.nolo.com/legal-encyclopedia/can-i-vote-if-i-have-a-felony-conviction.html (Oct. 2025) | 5 | ✅ Verified Mar 2026 |
+| Virginia voting rights status (2025) | NPR, Nov. 24, 2025 — Youngkin rollback; Spanberger expected to restore | 5 | ⚠️ In flux — re-verify at pub. |
+| Nebraska voting rights (2024) | Stateline, Oct. 2024 — restoration law upheld by NE Supreme Court | 5 | ✅ Verified Mar 2026 |
+| Caron v. United States | 524 U.S. 308 (1998) | 5 | ✅ |
+| NELP Ban-the-Box guide | https://www.nelp.org/publication/ban-the-box-fair-chance-hiring-state-and-local-guide/ (2022) | 5 | ⚠️ Verify current count |
+| IJ "Barred from Working" (regularly updated) | https://ij.org/report/barred-from-working/ | 5 | ✅ Verified Mar 2026 — 44 states/D.C. with reform laws; 20 states use direct-relationship standard |
+| CCRC Fair Chance Licensing Survey (2024) | https://ccresourcecenter.org/2022/02/25/fair-chance-employment-and-occupational-licensure-a-national-survey/ | 5 | ✅ Verified Mar 2026 |
+| Alabama SB 138 (2025) — licensing reform | Prohibits automatic denial by occupational licensing boards | 5 | ✅ Verified Mar 2026 |
+| HUD Screening Criminal Responsibilities Letter (Nov. 25, 2025) | Secretary Turner's letter rescinding prior guidance | 5 | ✅ Verified Mar 2026 — guidance rescinded |
+| HUD Notice PIH 2015-19 — RESCINDED | Rescinded Nov. 25, 2025 | 5 | ✅ No longer in effect |
+| 2016 HUD OGC Criminal Records Guidance — RESCINDED | Rescinded Nov. 25, 2025 | 5 | ✅ No longer in effect |
+| HUD "Reducing Barriers" proposed rule — WITHDRAWN | Withdrawn Jan. 16, 2025 (FR-6362-P-01) | 5 | ✅ Never took effect |
+| 42 U.S.C. § 13663 — lifetime RSO HUD exclusion | Federal statute | 5, 6 | ✅ |
+| HUD regulations 24 CFR 5.856, 960.204, 982.553 | Federal Register | 5 | ✅ |
+| Florida Amendment 4 (2018) voting rights | Florida Stat. § 97.041 | 5 | ✅ |
