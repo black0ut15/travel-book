@@ -246,3 +246,42 @@ Argentina, Australia, Bahamas, Barbados, Belize, Brazil, Cambodia, Canada, Cayma
 | AllCleared — countries that don't allow felons | https://allcleared.com/blog/which-countries-do-not-allow-felons | 8 | ✅ |
 | Carlson Meissner — countries banning felons | https://carlsonmeissner.com/blog/what-countries-do-not-allow-entry-if-you-are-a-convicted-felon/ | 8 | ✅ |
 | Jamaica felony enforcement caveat | Interrogating Justice https://interrogatingjustice.org | 8 | ✅ |
+
+## CHAPTER 9 SOURCES
+
+| Source | Citation/URL | Chapters | Status |
+|--------|-------------|----------|--------|
+| International Megan's Law | Pub. L. 114-119 (2016); 34 U.S.C. §§21501–21510; 22 U.S.C. §212b | 9 | ✅ |
+| Angel Watch Center / Operation Angel Watch | DHS/ICE; cited in YLOTL 2025 Ed. | 9 | ✅ |
+| Chris Smith IML statistics (2020) | Cited in YLOTL 2025 Ed. | 9 | ⚠️ Most current available; no newer figure found |
+| 21-day notice state-by-state breakdown | YLOTL 2025 Ed. (Nov. 2022 data) | 9 | ⚠️ Verify currency at pub. |
+| Covered sex offender definition | 22 U.S.C. §212b(c)(1) | 9 | ✅ |
+| Passport stamp verbatim text | 22 U.S.C. §212b; YLOTL 2025 Ed. | 9 | ✅ |
+| HSI offices abroad (93 locations, 56 countries) | DHS announcement Apr. 2024 https://www.dhs.gov/hsi/news/2024/04/23/homeland-security-investigations-launches-hsigov | 9 | ✅ Verified Mar 2026 — updated from 80/53 per current DHS sources |
+| PFR Guide travel matrix | https://pfr.guide | 9 | ✅ Verified Mar 2026 — operational and active |
+| Just Facts Not Fear travel matrix | https://justfactsnotfear.org/international-travel-for-registrants/ | 9 | ✅ Verified Mar 2026 — operational, updated Sept. 2025; NARSOL listed as current Nov. 2025 |
+| Countries barring RSO entry (formal law) | YLOTL 2025 Ed. citing PFR Guide/JFNF (July 2024) | 9 | ⚠️ Re-verify at pub. |
+| Countries with RSO turnbacks (self-report) | YLOTL 2025 Ed. citing PFR Guide/JFNF (July 2024) | 9 | ⚠️ Re-verify at pub. |
+| SMART Office SORN world report (2022) | https://smart.ojp.gov/doc/SORN-Laws-Around-the-World_FINAL_REPORT.pdf | 9 | ⚠️ Verify if updated |
+| Hecox v. United States, No. 22-855 (C.D. Cal. 2023) | SORNA obligations for those no longer required to register | 9 | ✅ Verified Mar 2026 — no circuit resolution found; question remains unsettled; SMART case law summary current through July 2025 |
+| RTAG (Registrant Travel Action Group) | Abandoned since 2022; superseded by PFR Guide/JFNF | 9 | ✅ Historical note |
+
+## CHAPTER 10 SOURCES
+
+| Source | Citation/URL | Chapters | Status |
+|--------|-------------|----------|--------|
+| Cato Institute — four immigration categories | Cited in YLOTL 2025 Ed. | 10 | ✅ Via YLOTL |
+| Embassy registration claim (unverified) | YLOTL 2025 Ed. | 10 | ✅ Correctly flagged as unverified |
+| SSA Publication No. 05-10137 (payments abroad) | Social Security Administration | 10 | ⚠️ Verify current at pub. |
+| 8 U.S.C. § 1481 (renunciation) | Federal statute | 10 | ✅ |
+| IRC § 877A and § 877 (exit tax / continuing obligation) | Federal tax code | 10 | ✅ |
+| World Population Review — extradition treaties (107/193) | worldpopulationreview.com, July 2024 | 10 | ✅ Via YLOTL |
+| YLOTL emigration guidance | YLOTL 2025 Ed. | 10 | ✅ |
+| Denise Harvey (Canada, 2014) | CBC News May 16, 2014; cited in YLOTL 2025 Ed. | 10 | ✅ |
+| Steven Whitsett (Germany, 2022) | YLOTL 2025 Ed. | 10 | ✅ |
+| Germany RSO policy change (Feb. 2024) | Via Whitsett, cited in YLOTL 2025 Ed. | 10 | ⚠️ Verify via official German sources |
+| NY DCJS RSO emigration count (2016) | YLOTL 2025 Ed. | 10 | ✅ Historical figure |
+| Portugal D7 Passive Income Visa | Portugal Residency Advisors (Dec. 2025); Portugalist | 10 | ✅ Verified Mar 2026 — requires apostilled FBI check; minor offenses (<1yr) generally permitted; serious offenses likely denied |
+| Mexico temporary resident visa (criminal record) | The Wandering Investor (Sept. 2025); official Mexican consulate | 10 | ✅ Verified Mar 2026 — discretionary; no formal background check required in some cases but criminal record can result in denial |
+| Panama Pensionado visa (criminal record) | Panama Relocation Tours; Panama Legal Center (2025) | 10 | ✅ Verified Mar 2026 — requires apostilled FBI check; felony = categorical bar regardless of age |
+| Germany RSO asylum policy (Feb. 2024) | Via Whitsett/YLOTL; consistent with 2024 tightening per InfoMigrants | 10 | ✅ Verified Mar 2026 — consistent with broader 2024 tightening; specific RSO policy not verified via official BAMF docs |

@@ -3,7 +3,7 @@
 
 **Status:** In Development  
 **Co-authors:** [Author] + Claude (Research Assistant)  
-**Last Updated:** 2026-03-30 (rev. 6)  
+**Last Updated:** 2026-03-30 (rev. 10)  
 **Audience Assumption:** Primarily off-paper readers dealing with ongoing record consequences  
 **Voice:** Instructional third-person, plain American English, no hedging  
 **Primary Source:** *Your Life on the List, 2025 Edition* (YLOTL) — used as research reference only
@@ -55,7 +55,7 @@ Inline research flags use this format:
 | `04_chapter_04.md` | Chapter 4 | Domestic Travel as a Registered Sex Offender | ✅ Drafted |
 | `05_chapter_05.md` | Chapter 5 | Moving to a New State: Felons | ✅ Drafted |
 | `06_chapter_06.md` | Chapter 6 | Moving to a New State: Registered Sex Offenders | ✅ Drafted |
-| `07_chapter_07.md` | Chapter 7 | U.S. Territories: A Special Category | Not Started |
+| `07_chapter_07.md` | Chapter 7 | U.S. Territories: A Special Category | ✅ Drafted |
 
 ---
 
@@ -64,9 +64,9 @@ Inline research flags use this format:
 
 | File | Chapter | Title | Status |
 |------|---------|-------|--------|
-| `08_chapter_08.md` | Chapter 8 | International Travel as a Felon | Not Started |
-| `09_chapter_09.md` | Chapter 9 | International Travel as a Registered Sex Offender | Not Started |
-| `10_chapter_10.md` | Chapter 10 | Relocating Abroad: Long-Term and Permanent | Not Started |
+| `08_chapter_08.md` | Chapter 8 | International Travel as a Felon | ✅ Drafted |
+| `09_chapter_09.md` | Chapter 9 | International Travel as a Registered Sex Offender | ✅ Drafted |
+| `10_chapter_10.md` | Chapter 10 | Relocating Abroad: Long-Term and Permanent | ✅ Drafted |
 
 ---
 
@@ -131,4 +131,4 @@ Start with the foundation chapters, then build outward:
 4. `04_chapter_04.md` — domestic RSO travel (builds on Ch. 1 concepts)
 5. Continue sequentially from there
 
-**Next chapter to draft:** Chapter 7
+**Next chapter to draft:** Chapter 11
